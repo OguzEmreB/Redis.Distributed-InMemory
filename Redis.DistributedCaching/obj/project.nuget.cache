@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIngv0e3gnITzUxEtj5LZovpeG8RMuhOefGda+J1iVKyWhbm9jj1+35Yl6Nbx/BZLNsV2XvdTgRygE8GBSK4pg==",
+  "success": true,
+  "projectFilePath": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.DistributedCaching\\Redis.DistributedCaching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguze\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.6\\microsoft.extensions.caching.stackexchangeredis.8.0.6.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\oguze\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
