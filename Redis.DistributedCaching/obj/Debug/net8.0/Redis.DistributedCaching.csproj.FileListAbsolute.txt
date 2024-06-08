@@ -36,3 +36,4 @@ E:\aoğuz\ders\Gencay_ders\Redis\Redis.Distributed-InMemory\Redis.DistributedCac
 E:\aoğuz\ders\Gencay_ders\Redis\Redis.Distributed-InMemory\Redis.DistributedCaching\bin\Debug\net8.0\StackExchange.Redis.dll
 E:\aoğuz\ders\Gencay_ders\Redis\Redis.Distributed-InMemory\Redis.DistributedCaching\obj\Debug\net8.0\Redis.DistributedCaching.csproj.AssemblyReference.cache
 E:\aoğuz\ders\Gencay_ders\Redis\Redis.Distributed-InMemory\Redis.DistributedCaching\obj\Debug\net8.0\Redis.Di.F357BCC3.Up2Date
+E:\aoğuz\ders\Gencay_ders\Redis\Redis.Distributed-InMemory\Redis.DistributedCaching\obj\Debug\net8.0\Redis.DistributedCaching.sourcelink.json

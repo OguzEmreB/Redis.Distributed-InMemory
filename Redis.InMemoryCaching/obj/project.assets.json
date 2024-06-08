@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\Redis.InMemoryCaching.csproj",
-      "projectName": "Redis.InMemoryCaching",
-      "projectPath": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\Redis.InMemoryCaching.csproj",
+      "projectUniqueName": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\InMemoryCaching.csproj",
+      "projectName": "InMemoryCaching",
+      "projectPath": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\InMemoryCaching.csproj",
       "packagesPath": "C:\\Users\\oguze\\.nuget\\packages\\",
       "outputPath": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Redis.InMemoryCaching.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Redis.InMemoryCaching.bundle.scp.css"
+      "Id": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InMemoryCaching.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InMemoryCaching.bundle.scp.css"
     },
     {
       "Id": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Redis.InMemoryCaching.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InMemoryCaching.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Redis.InMemoryCaching.props",
-      "PackagePath": "build\\Redis.InMemoryCaching.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InMemoryCaching.props",
+      "PackagePath": "build\\InMemoryCaching.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Redis.InMemoryCaching.props",
-      "PackagePath": "buildMultiTargeting\\Redis.InMemoryCaching.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InMemoryCaching.props",
+      "PackagePath": "buildMultiTargeting\\InMemoryCaching.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Redis.InMemoryCaching.props",
-      "PackagePath": "buildTransitive\\Redis.InMemoryCaching.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InMemoryCaching.props",
+      "PackagePath": "buildTransitive\\InMemoryCaching.props"
     }
   ],
   "ElementsToRemove": []

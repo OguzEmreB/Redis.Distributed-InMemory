@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ptwcms+dUpCXmsUeRJ3yHyyyiVXagGzJC2q2GqiHk0VlB1xZ0tTc+gxJDsy87WL4AoOY5ScgxOFfnGnZ85w/hA==",
+  "dgSpecHash": "ZuhwfmtsbHDbbKV0IfSOtwUfvPoN3CKNFZncukyTXrYNqdPmfDc8iSZQeoLD8MUq4z+28R1G5lqlRDqRJFmtzA==",
   "success": true,
-  "projectFilePath": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\Redis.InMemoryCaching.csproj",
+  "projectFilePath": "E:\\aoğuz\\ders\\Gencay_ders\\Redis\\Redis.Distributed-InMemory\\Redis.InMemoryCaching\\InMemoryCaching.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
